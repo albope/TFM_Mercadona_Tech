@@ -67,6 +67,57 @@ Los datos proporcionados por la empresa Mercadona Tech se dividian en 4 datasets
 * **Dlib** : Biblioteca de algortimos de Machine Learning
 
 
+########
+
+## Prerequisites 
+
+The prerequisites are:
+
+- Git
+- Python3
+- pip
+
+Verify if Python / Pip has version 3 active :snake: :
+
+```
+$> python3 --version
+$> pip --version
+```
+
+----
+
+## Getting Started
+
+
+### **Create a virtual environment**
+
+If you are running the app locally you might want to set up a virtual environment with conda or venv.
+
+```
+$> conda create --name <venv_name> python=3.8
+
+# Windows
+$> activate <venv_name>
+
+#Linux, maxOS
+$> source activate <venv_name>
+```
+
+
+### **Installation in local host**
+
+Clone the git repository:
+```
+$> git clone https://github.com/albope/TFM_Mercadona_Tech.git
+$> cd CARPETA DEL CODIGO
+```
+
+Install dependencies:
+```
+$> pip install -r requirements.txt
+```
+
+
 
 
 ## Resultados <a name="resultados"></a>
