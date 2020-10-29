@@ -6,8 +6,10 @@
 2. [Objetivo del Proyecto](#objetivo)
 3. [Conjunto de datos](#datasets)
 4. [Software & librerias utilizadas](#software)
-5. [Resultados](#resultados)
-6. [Agradecimientos](#agradecimientos)
+5. [Pre-requisitos](#software)
+6. [Lanzar la solución](#gettingstarted)
+7. [Resultados](#resultados)
+8. [Agradecimientos](#agradecimientos)
 
 
 
@@ -50,26 +52,28 @@ Este repo contiene los diferentes scripts que hemos utilizado en las distintas f
 Los datos proporcionados por la empresa Mercadona Tech se dividian en 4 datasets diferentes y provenian de pedidos realizados en su ecommerce durante un periodo de 2 años y medio y ascendian a un total de mas de 10 millones de registros:
 
 
-* **COCO Dataset**: Dataset abierto que contiene más de 220k imágenes etiquetadas y 1.5 millón de clases de objetos diferentes.
-* **Ego Hand Dataset**: Dataset creado por la Universidad de Indiana que contiene 15,083 manos etiquetadas y 48 videos diferentes de manos.
-* **OID Dataset** : Dataset con 500 clases de objetos diferentes.
-* **Medical Mask Dataset**: Dataset creado para una competición de Kaggle con 682 imagenes de gente portando mascarillas médicas.
+* **Fraud**: Dataset con pedidos realizados por clientes fraudulentos.
+* **Non-Fraud**: Dataset con pedidos realizados por clientes no fraudulentos.
+* **Countries_iso_codes** : Códigos ISO de países.
+* **Product_categories**: Categorías a las que pertenece cada producto
+dentro de Mercadona Online.
 
 
 
 
 ## Software & librerias utilizadas <a name="software"></a>
 
-* [LabelImg](https://github.com/tzutalin/labelImg) : Software de etiquetado de Imagenes [[link]]
-* [OpenCV](https://github.com/opencv/opencv) : Biblioteca de Visión Artificial
-* **Tensor Flow** : Biblioteca de Machine Learning
-* **Keras** : Biblioteca de Redes Neuronales
-* **Dlib** : Biblioteca de algortimos de Machine Learning
-
+* **matplotlib** : Biblioteca para la generación de gráficos
+* **numpy** : Biblioteca para la creación de vectores y matrices
+* **Scipy** : Biblioteca de algoritmos matemáticos
+* **Pandas** : Biblioteca para la manipulación y analisis de datos
+* **sklearn** : Biblioteca de aprendizaje automatico
+* **xgboost** : Biblioteca de aumento de marco de gradiente
+* **Google Collaboratory** : Entorno Jupyter para el desarrollo del código en Python.
 
 ########
 
-## Prerequisites 
+## Prerequisites <a name="Prerequisites"></a>
 
 The prerequisites are:
 
@@ -86,7 +90,7 @@ $> pip --version
 
 ----
 
-## Getting Started
+## Getting Started <a name="gettingstarted"></a>
 
 
 ### **Create a virtual environment**
