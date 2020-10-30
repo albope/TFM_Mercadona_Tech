@@ -1,3 +1,9 @@
 pandas==1.0.3
 numpy==1.18.4
 scikit-learn==0.23.1
+Matplotlib==3.3.2
+scipy==1.5.3
+multiprocessing==16.6.1
+random==3.9.0
+seaborn==0.11.0
+timeit==26.6.4
