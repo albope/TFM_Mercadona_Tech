@@ -5,11 +5,10 @@
 1. [Contexto del Proyecto](#contexto)
 2. [Objetivo del Proyecto](#objetivo)
 3. [Conjunto de datos](#datasets)
-4. [Software & librerias utilizadas](#software)
-5. [Pre-requisitos](#software)
-6. [Lanzar la solución](#gettingstarted)
-7. [Resultados](#resultados)
-8. [Agradecimientos](#agradecimientos)
+4. [Pre-requisitos](#software)
+5. [Lanzar la solución](#gettingstarted)
+6. [Resultados](#resultados)
+7. [Agradecimientos](#agradecimientos)
 
 
 
@@ -60,18 +59,6 @@ dentro de Mercadona Online.
 
 
 
-
-## Software & librerias utilizadas <a name="software"></a>
-
-* **matplotlib** : Biblioteca para la generación de gráficos
-* **numpy** : Biblioteca para la creación de vectores y matrices
-* **Scipy** : Biblioteca de algoritmos matemáticos
-* **Pandas** : Biblioteca para la manipulación y analisis de datos
-* **sklearn** : Biblioteca de aprendizaje automatico
-* **xgboost** : Biblioteca de aumento de marco de gradiente
-* **Google Collaboratory** : Entorno Jupyter para el desarrollo del código en Python.
-
-########
 
 ## Prerequisites <a name="Prerequisites"></a>
 
