@@ -115,11 +115,11 @@ $> pip install -r requirements.txt
 
 ### Accuracy 
 
-| First Header  |    DATASET    |       mAP     |       FPS     | 
-| ------------- | ------------- | ------------- | ------------- |
-| RetinaNet     |    CUSTOM     |      64%      |      0.25     |
-| YOLOv3        |    CUSTOM     |      63%      |      5.00     |
-| Tiny YOLO     |    CUSTOM     |      33%      |      15.00    |
+|     Modelo    | % De Aciertos | Falsos Negativos |       AUC     |   Presición   |
+| ------------- | ------------- | ---------------- | ------------- | ------------- |
+| XgBoost       |    CUSTOM     |      64%         |      0.25     |               |
+| YOLOv3        |    CUSTOM     |      63%         |      5.00     |               |
+| Tiny YOLO     |    CUSTOM     |      33%         |      15.00    |               |
 
 
 
