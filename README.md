@@ -65,13 +65,13 @@ dentro de Mercadona Online.
 
 ## Prerequisites <a name="Prerequisites"></a>
 
-The prerequisites are:
+Los prerequisitos son:
 
 - Git
 - Python3
 - pip
 
-Verify if Python / Pip has version 3 active :snake: :
+Verificar si Python / Pip tiene la version 3 activa :snake: :
 
 ```
 $> python3 --version
@@ -85,8 +85,7 @@ $> pip --version
 
 ### **Create a virtual environment**
 
-If you are running the app locally you might want to set up a virtual environment with conda or venv.
-
+Si estas ejecutando la applicación en tu entorno local, es posible que desees configurar un entorno virtual con conda o venv.
 ```
 $> conda create --name <venv_name> python=3.8
 
@@ -115,6 +114,14 @@ $> pip install -r requirements.txt
 
 
 ## Resultados <a name="resultados"></a>
+
+### Research
+
+Despues de un trabajo de investigación repasando los algoritmos mas usados y con mejores resultados para problemas de fraude, aquí teneís los resultados de los 3 algoritmos mas usados con una variación de hyperparametros: 
+
+[Tabla de resultados](https://github.com/albope/TFM_Mercadona_Tech/tree/main/1.Research)
+
+
 
 ### Accuracy 
 
