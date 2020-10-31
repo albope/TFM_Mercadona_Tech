@@ -103,7 +103,7 @@ $> source activate <venv_name>
 Clone the git repository:
 ```
 $> git clone https://github.com/albope/TFM_Mercadona_Tech.git
-$> cd CARPETA Model
+$> cd TFM_Mercadona_Tech
 ```
 
 Install dependencies:
