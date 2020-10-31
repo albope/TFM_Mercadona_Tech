@@ -1,5 +1,8 @@
 # TFM_Mercadona_Tech: Fraudem
 
+
+![image](https://github.com/albope/TFM_Mercadona_Tech/blob/main/src/Mercadona_Tech.png)
+
 ## Tabla de contenido
 
 1. [Contexto del Proyecto](#contexto)
