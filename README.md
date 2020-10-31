@@ -127,7 +127,7 @@ $> pip install -r requirements.txt
 
 
 
-## Agradecimientos <a name="agradecimientos"></a>
+## Agradecimientos <a name="agradecimientos"></a> :pray:
 
 * A nuestras familias por hacernos más fácil el desarrollo del proyecto
 * A nuestros tutores por su ayuda a la hora de dirigir el alcance y conseguir los objetivos del proyecto
