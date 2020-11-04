@@ -125,7 +125,7 @@ Despues de un trabajo de investigación repasando los algoritmos mas usados y co
 
 ### Accuracy 
 
-|     Modelo         | % De Aciertos | Falsos Negativos |       AUC     |   Presición   |
+|     Modelo         | % De Aciertos | Falsos Negativos |       AUC     |   Precisión   |
 | ------------------ | ------------- | ---------------- | ------------- | ------------- |
 | XgBoost            |    CUSTOM     |      64%         |      0.25     |               |
 | RandomForest       |    CUSTOM     |      63%         |      5.00     |               |
