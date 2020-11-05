@@ -125,11 +125,11 @@ Despues de un trabajo de investigación repasando los algoritmos mas usados y co
 
 ### Accuracy 
 
-|     Modelo         | % De Aciertos | Falsos Negativos |       AUC     |   Precisión   |
-| ------------------ | ------------- | ---------------- | ------------- | ------------- |
-| XgBoost            |    CUSTOM     |      64%         |      0.25     |               |
-| RandomForest       |    CUSTOM     |      63%         |      5.00     |               |
-| RegressionLogistic |    CUSTOM     |      33%         |      15.00    |               |
+|     Modelo         |       AUC     | 
+| ------------------ | ------------- | 
+| XgBoost            |    97.07%     |                 
+| RandomForest       |    84.23%     |            
+| RegressionLogistic |    82.43%     |                    
 
 
 
